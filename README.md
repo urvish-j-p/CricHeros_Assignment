@@ -90,8 +90,8 @@ The frontend will run on `http://localhost:3000`
 
 The application is deployed on Vercel:
 
-- **Frontend**: [https://cricheros.urvish.website/](https://cricheros.urvish.website/)
-- **Backend API**: [https://cricheros-backend.urvish.website/](https://cricheros-backend.urvish.website/)
+- **Frontend**: [https://cricheroes.urvish.website/](https://cricheroes.urvish.website/)
+- **Backend API**: [https://cricheroes-backend.urvish.website/](https://cricheroes-backend.urvish.website/)
 
 You can access the live application using the frontend link above.
 
