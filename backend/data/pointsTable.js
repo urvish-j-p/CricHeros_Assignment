@@ -69,13 +69,3 @@ export const getTeamByName = (teamName) => {
   );
 };
 
-// Helper to get sorted points table
-export const getSortedPointsTable = () => {
-  return [...pointsTable].sort((a, b) => {
-    if (b.points !== a.points) {
-      return b.points - a.points;
-    }
-    return b.nrr - a.nrr;
-  });
-};
-
