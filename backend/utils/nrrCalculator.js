@@ -107,7 +107,6 @@ export const createUpdatedTable = (originalTable, teamName, opponentName, matchD
 export const findRangeForBowling = (team, opponent, matchOvers, runsScored, oversBatted, desiredPosition, originalTable) => {
   // We need to win, so opponent must score less than runsScored
   // Use binary search for efficiency
-  let validRuns = [];
   let left = 0;
   let right = runsScored - 1;
   
